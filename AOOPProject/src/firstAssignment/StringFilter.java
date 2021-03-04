@@ -1,4 +1,4 @@
-package firstPart;
+package firstAssignment;
 
 /*
  * Using interface filter and supply a method that returns an array

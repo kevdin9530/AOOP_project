@@ -1,4 +1,4 @@
-package firstPart;
+package firstAssignment;
 
 /**
  * A first-in, first-out bounded collection of messages.

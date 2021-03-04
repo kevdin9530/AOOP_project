@@ -1,4 +1,4 @@
-package firstPart;
+package firstAssignment;
 
 public interface Filter {
 

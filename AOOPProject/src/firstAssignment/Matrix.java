@@ -1,4 +1,4 @@
-package firstPart;
+package firstAssignment;
 
 /*
  * Simple matrix using double array and apply some print and also basic addition/multiplication

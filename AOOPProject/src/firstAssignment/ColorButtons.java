@@ -1,4 +1,4 @@
-package firstPart;
+package firstAssignment;
 
 import java.awt.Color;
 import java.awt.Component;

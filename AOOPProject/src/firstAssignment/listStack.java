@@ -1,4 +1,4 @@
-package firstPart;
+package firstAssignment;
 
 /*
  * Create our own Stack class that has extra methods/functions to push/pop multiple object
